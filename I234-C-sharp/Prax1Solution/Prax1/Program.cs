@@ -11,9 +11,8 @@ namespace Prax1
         static void Main(string[] args)
         {
 
-            //programMenu();
-            MotorVehicleTest test = new MotorVehicleTest();
-
+            programMenu();
+            
         }
 
 
