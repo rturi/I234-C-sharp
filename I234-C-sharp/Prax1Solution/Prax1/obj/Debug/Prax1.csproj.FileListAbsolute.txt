@@ -1,0 +1,6 @@
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\bin\Debug\Prax1.exe.config
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\bin\Debug\Prax1.exe
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\bin\Debug\Prax1.pdb
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\obj\Debug\Prax1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\obj\Debug\Prax1.exe
+C:\Users\Roland\Documents\Kool\C#\Prax1\Prax1Solution\Prax1\obj\Debug\Prax1.pdb
